@@ -1,5 +1,5 @@
 # snippets-git_github
-Snippets de um resumo de comandos do Git e Github para ajudar pessoas que estão aprendendo agora a como usar o Git e o Github.
+Snippets de um resumo de comandos do Git e Github para ajudar pessoas que estão aprendendo agora à como usá-lo.
 
   1 - Passo a Passo: Como criar repositório remoto;
   
