@@ -12,3 +12,6 @@ Snippets de um resumo de comandos do Git e Github para ajudar pessoas que estão
   
   4 - Passo a Passo: Como voltar um commit:
 ![voltar-commit](https://github.com/andressasabrantes/snippets-git_github/assets/87620436/fbc2903b-e23a-4439-ae5f-717c2e77d6d1)  
+
+5- Passo a Passo: Como deletar uma branch:
+![deletar_uma_branch](https://github.com/andressasabrantes/snippets-git_github/assets/87620436/da622d58-d1b7-49d5-b7bd-108c1e36dd1b)
